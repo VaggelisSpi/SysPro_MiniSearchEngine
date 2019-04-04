@@ -1,7 +1,7 @@
 #SysPro_MiniSearchEngine
 Implemeted a mini search engine in C++. Compile the project with
 ```
-    make
+make
 ```
 
 And run as
