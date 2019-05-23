@@ -1,4 +1,4 @@
-#MiniSearchEngine
+# MiniSearchEngine
 
 Implemeted a mini search engine in C++. Compile the project with
 ```
@@ -13,7 +13,7 @@ And run as
 input_file is a file based on which the queries will be executed. Some files are found in the dataset file. K is the number of results returned for each querry. The program supports the following commands
 
 ```
-/search
+/search word1 word2...
 ```
 
 Search is followed by the words we want to search for and returns the top K results.
