@@ -10,8 +10,9 @@ And run as
 ./minisearch -i input_file -k K.
 ```
 
-input_file is a file based on which the queries will be executed. Some files are found in the dataset file. K is the number of results returned for each querry. The program supports the following commands
+input_file is a file based on which the queries will be executed. Some files are found in the dataset file. K is the number of results returned for each querry.
 
+The program supports the following commands:
 ```
 /search word1 word2...
 ```
