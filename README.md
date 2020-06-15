@@ -1,6 +1,6 @@
 # MiniSearchEngine
 
-Implemeted a mini search engine in C++. Compile the project with
+Implemented a mini search engine in C++. Compile the project with
 ```
 make
 ```
